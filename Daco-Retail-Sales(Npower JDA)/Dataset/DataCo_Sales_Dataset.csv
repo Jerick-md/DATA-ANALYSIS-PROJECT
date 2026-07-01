@@ -1,0 +1,109 @@
+Date,Region,Category,Product,Units_Sold,Unit_Price,Total_Sales,Profit_Margin,Sales_Rep
+2024-01-05,East,Electronics,Laptop Pro 14,12,1199.99,14399.88,0.22,Sarah Chen
+2024-01-07,West,Electronics,Wireless Headphones,45,89.99,4049.55,0.38,James Lee
+2024-01-10,Central,Office Supplies,Ergonomic Chair,8,349.99,2799.92,0.31,Maria Lopez
+2024-01-12,East,Electronics,Smart Monitor 27",20,429.99,8599.80,0.27,Sarah Chen
+2024-01-15,South,Software,Data Analytics Suite,5,599.99,2999.95,0.65,David Kim
+2024-01-18,West,Office Supplies,Standing Desk,14,499.99,6999.86,0.28,James Lee
+2024-01-22,Central,Electronics,Tablet Pro 11,30,699.99,20999.70,0.33,Maria Lopez
+2024-01-25,East,Software,Project Management Tool,18,199.99,3599.82,0.71,Sarah Chen
+2024-01-28,South,Office Supplies,Mechanical Keyboard,55,129.99,7149.45,0.42,David Kim
+2024-02-02,West,Electronics,Laptop Pro 14,9,1199.99,10799.91,0.22,James Lee
+2024-02-05,Central,Software,Data Analytics Suite,7,599.99,4199.93,0.65,Maria Lopez
+2024-02-08,East,Electronics,Wireless Headphones,62,89.99,5579.38,0.38,Sarah Chen
+2024-02-12,South,Electronics,Smart Monitor 27",15,429.99,6449.85,0.27,David Kim
+2024-02-14,West,Office Supplies,Ergonomic Chair,11,349.99,3849.89,0.31,James Lee
+2024-02-18,Central,Electronics,Tablet Pro 11,22,699.99,15399.78,0.33,Maria Lopez
+2024-02-21,East,Software,Project Management Tool,25,199.99,4999.75,0.71,Sarah Chen
+2024-02-25,South,Office Supplies,Standing Desk,9,499.99,4499.91,0.28,David Kim
+2024-02-28,West,Electronics,Mechanical Keyboard,40,129.99,5199.60,0.42,James Lee
+2024-03-03,Central,Electronics,Laptop Pro 14,15,1199.99,17999.85,0.22,Maria Lopez
+2024-03-06,East,Software,Data Analytics Suite,10,599.99,5999.90,0.65,Sarah Chen
+2024-03-09,South,Electronics,Wireless Headphones,78,89.99,7019.22,0.38,David Kim
+2024-03-12,West,Office Supplies,Ergonomic Chair,18,349.99,6299.82,0.31,James Lee
+2024-03-15,Central,Electronics,Smart Monitor 27",28,429.99,12039.72,0.27,Maria Lopez
+2024-03-19,East,Software,Project Management Tool,32,199.99,6399.68,0.71,Sarah Chen
+2024-03-22,South,Electronics,Tablet Pro 11,41,699.99,28699.59,0.33,David Kim
+2024-03-26,West,Office Supplies,Standing Desk,16,499.99,7999.84,0.28,James Lee
+2024-03-29,Central,Electronics,Mechanical Keyboard,70,129.99,9099.30,0.42,Maria Lopez
+2024-04-02,East,Electronics,Laptop Pro 14,18,1199.99,21599.82,0.22,Sarah Chen
+2024-04-05,South,Software,Data Analytics Suite,12,599.99,7199.88,0.65,David Kim
+2024-04-08,West,Electronics,Wireless Headphones,55,89.99,4949.45,0.38,James Lee
+2024-04-11,Central,Office Supplies,Ergonomic Chair,20,349.99,6999.80,0.31,Maria Lopez
+2024-04-14,East,Electronics,Smart Monitor 27",33,429.99,14189.67,0.27,Sarah Chen
+2024-04-17,South,Software,Project Management Tool,40,199.99,7999.60,0.71,David Kim
+2024-04-21,West,Electronics,Tablet Pro 11,27,699.99,18899.73,0.33,James Lee
+2024-04-24,Central,Office Supplies,Standing Desk,22,499.99,10999.78,0.28,Maria Lopez
+2024-04-27,East,Electronics,Mechanical Keyboard,88,129.99,11439.12,0.42,Sarah Chen
+2024-05-01,South,Electronics,Laptop Pro 14,21,1199.99,25199.79,0.22,David Kim
+2024-05-04,West,Software,Data Analytics Suite,15,599.99,8999.85,0.65,James Lee
+2024-05-07,Central,Electronics,Wireless Headphones,90,89.99,8099.10,0.38,Maria Lopez
+2024-05-10,East,Office Supplies,Ergonomic Chair,25,349.99,8749.75,0.31,Sarah Chen
+2024-05-13,South,Electronics,Smart Monitor 27",38,429.99,16339.62,0.27,David Kim
+2024-05-16,West,Software,Project Management Tool,48,199.99,9599.52,0.71,James Lee
+2024-05-19,Central,Electronics,Tablet Pro 11,35,699.99,24499.65,0.33,Maria Lopez
+2024-05-22,East,Office Supplies,Standing Desk,19,499.99,9499.81,0.28,Sarah Chen
+2024-05-25,South,Electronics,Mechanical Keyboard,102,129.99,13258.98,0.42,David Kim
+2024-06-02,West,Electronics,Laptop Pro 14,24,1199.99,28799.76,0.22,James Lee
+2024-06-05,Central,Software,Data Analytics Suite,18,599.99,10799.82,0.65,Maria Lopez
+2024-06-08,East,Electronics,Wireless Headphones,110,89.99,9898.90,0.38,Sarah Chen
+2024-06-11,South,Office Supplies,Ergonomic Chair,30,349.99,10499.70,0.31,David Kim
+2024-06-14,West,Electronics,Smart Monitor 27",42,429.99,18059.58,0.27,James Lee
+2024-06-17,Central,Software,Project Management Tool,55,199.99,10999.45,0.71,Maria Lopez
+2024-06-20,East,Electronics,Tablet Pro 11,48,699.99,33599.52,0.33,Sarah Chen
+2024-06-23,South,Office Supplies,Standing Desk,28,499.99,13999.72,0.28,David Kim
+2024-06-26,West,Electronics,Mechanical Keyboard,120,129.99,15598.80,0.42,James Lee
+2024-07-03,Central,Electronics,Laptop Pro 14,19,1199.99,22799.81,0.22,Maria Lopez
+2024-07-06,East,Software,Data Analytics Suite,22,599.99,13199.78,0.65,Sarah Chen
+2024-07-09,South,Electronics,Wireless Headphones,95,89.99,8549.05,0.38,David Kim
+2024-07-12,West,Office Supplies,Ergonomic Chair,16,349.99,5599.84,0.31,James Lee
+2024-07-15,Central,Electronics,Smart Monitor 27",31,429.99,13329.69,0.27,Maria Lopez
+2024-07-18,East,Software,Project Management Tool,44,199.99,8799.56,0.71,Sarah Chen
+2024-07-21,South,Electronics,Tablet Pro 11,52,699.99,36399.48,0.33,David Kim
+2024-07-24,West,Office Supplies,Standing Desk,24,499.99,11999.76,0.28,James Lee
+2024-07-27,Central,Electronics,Mechanical Keyboard,98,129.99,12729.02,0.42,Maria Lopez
+2024-08-01,East,Electronics,Laptop Pro 14,28,1199.99,33599.72,0.22,Sarah Chen
+2024-08-04,South,Software,Data Analytics Suite,20,599.99,11999.80,0.65,David Kim
+2024-08-07,West,Electronics,Wireless Headphones,130,89.99,11698.70,0.38,James Lee
+2024-08-10,Central,Office Supplies,Ergonomic Chair,35,349.99,12249.65,0.31,Maria Lopez
+2024-08-13,East,Electronics,Smart Monitor 27",45,429.99,19349.55,0.27,Sarah Chen
+2024-08-16,South,Software,Project Management Tool,60,199.99,11999.40,0.71,David Kim
+2024-08-19,West,Electronics,Tablet Pro 11,58,699.99,40599.42,0.33,James Lee
+2024-08-22,Central,Office Supplies,Standing Desk,32,499.99,15999.68,0.28,Maria Lopez
+2024-08-25,East,Electronics,Mechanical Keyboard,145,129.99,18838.55,0.42,Sarah Chen
+2024-09-02,South,Electronics,Laptop Pro 14,22,1199.99,26399.78,0.22,David Kim
+2024-09-05,West,Software,Data Analytics Suite,25,599.99,14999.75,0.65,James Lee
+2024-09-08,Central,Electronics,Wireless Headphones,115,89.99,10348.85,0.38,Maria Lopez
+2024-09-11,East,Office Supplies,Ergonomic Chair,28,349.99,9799.72,0.31,Sarah Chen
+2024-09-14,South,Electronics,Smart Monitor 27",50,429.99,21499.50,0.27,David Kim
+2024-09-17,West,Software,Project Management Tool,65,199.99,12999.35,0.71,James Lee
+2024-09-20,Central,Electronics,Tablet Pro 11,62,699.99,43399.38,0.33,Maria Lopez
+2024-09-23,East,Office Supplies,Standing Desk,38,499.99,18999.62,0.28,Sarah Chen
+2024-09-26,South,Electronics,Mechanical Keyboard,160,129.99,20798.40,0.42,David Kim
+2024-10-01,West,Electronics,Laptop Pro 14,30,1199.99,35999.70,0.22,James Lee
+2024-10-04,Central,Software,Data Analytics Suite,28,599.99,16799.72,0.65,Maria Lopez
+2024-10-07,East,Electronics,Wireless Headphones,140,89.99,12598.60,0.38,Sarah Chen
+2024-10-10,South,Office Supplies,Ergonomic Chair,40,349.99,13999.60,0.31,David Kim
+2024-10-13,West,Electronics,Smart Monitor 27",55,429.99,23649.45,0.27,James Lee
+2024-10-16,Central,Software,Project Management Tool,72,199.99,14399.28,0.71,Maria Lopez
+2024-10-19,East,Electronics,Tablet Pro 11,68,699.99,47599.32,0.33,Sarah Chen
+2024-10-22,South,Office Supplies,Standing Desk,42,499.99,20999.58,0.28,David Kim
+2024-10-25,West,Electronics,Mechanical Keyboard,175,129.99,22748.25,0.42,James Lee
+2024-11-01,Central,Electronics,Laptop Pro 14,35,1199.99,41999.65,0.22,Maria Lopez
+2024-11-04,East,Software,Data Analytics Suite,32,599.99,19199.68,0.65,Sarah Chen
+2024-11-07,South,Electronics,Wireless Headphones,155,89.99,13948.45,0.38,David Kim
+2024-11-10,West,Office Supplies,Ergonomic Chair,45,349.99,15749.55,0.31,James Lee
+2024-11-13,Central,Electronics,Smart Monitor 27",60,429.99,25799.40,0.27,Maria Lopez
+2024-11-16,East,Software,Project Management Tool,80,199.99,15999.20,0.71,Sarah Chen
+2024-11-19,South,Electronics,Tablet Pro 11,75,699.99,52499.25,0.33,David Kim
+2024-11-22,West,Office Supplies,Standing Desk,48,499.99,23999.52,0.28,James Lee
+2024-11-25,Central,Electronics,Mechanical Keyboard,200,129.99,25998.00,0.42,Maria Lopez
+2024-12-02,East,Electronics,Laptop Pro 14,42,1199.99,50399.58,0.22,Sarah Chen
+2024-12-05,South,Software,Data Analytics Suite,38,599.99,22799.62,0.65,David Kim
+2024-12-08,West,Electronics,Wireless Headphones,180,89.99,16198.20,0.38,James Lee
+2024-12-11,Central,Office Supplies,Ergonomic Chair,52,349.99,18199.48,0.31,Maria Lopez
+2024-12-14,East,Electronics,Smart Monitor 27",70,429.99,30099.30,0.27,Sarah Chen
+2024-12-17,South,Software,Project Management Tool,95,199.99,18999.05,0.71,David Kim
+2024-12-20,West,Electronics,Tablet Pro 11,88,699.99,61599.12,0.33,James Lee
+2024-12-23,Central,Office Supplies,Standing Desk,55,499.99,27499.45,0.28,Maria Lopez
+2024-12-26,East,Electronics,Mechanical Keyboard,220,129.99,28597.80,0.42,Sarah Chen
