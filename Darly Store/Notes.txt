@@ -1,0 +1,15 @@
+This project was done during my vacation. I created an analysis for my older brother’s store to see its sales performance and help make decisions for improving the business. I started on June 9 and finished on July 9—one month in total.
+
+First, I listed every item sold on paper with columns for Products, Price, Quantity, Units, Total Sales, and Date for each day. After that, I encoded everything in Excel and performed data cleaning using the Python library Pandas. Once that was done, I loaded the data into Power BI for analysis.
+
+In the analysis, I created cards for Quantity Sold, Sales, Profit, Unit Sales, and Average Sales. I also used a bar graph to show sales per item and identify which items sold the most. A ribbon chart displays sales per day, and a clustered column chart shows which items had the highest quantity sold.
+
+From my analysis, the total quantity sold is 2,000, total sales are 16,000, and profit is 6,000 (after deducting costs of over 9,000). Sales per unit is 10.50, and the average sales is 17.34—these are shown in the cards.
+
+The bar graph shows sales per item, and the top 5 best-selling items are: Rice with 2,220, Mighty White with 1,130, Bread with 1,068, Mighty Red with 890, and 4Kanto with 850.
+
+The Daily Sales also show a stable trend, meaning they are neither decreasing nor increasing.
+The clustered graph shows the items with the highest quantity sold. The top 5 items are: Bread with 180 units sold, Mighty White with 148, Monay/Filling with 109, Small Snacks with 93, and Mighty Red with 89.
+
+I recommended that my brother consistently stock the top-selling and frequently purchased items to increase sales, and also to avoid carrying items that are not selling well.
+
